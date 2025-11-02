@@ -1,6 +1,6 @@
 /* Author: INDROJIT DHE SHAON
 Personal Code: 17
-File: decimal_to_hexa-decimal.c */
+File: decimal_to_hexadecimal.c */
 
 #include<stdio.h>
 
@@ -14,4 +14,5 @@ int main(){
     printf("Hexadecimal number = %x", number);
 
     return 0;
+
 }
